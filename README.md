@@ -13,11 +13,11 @@ In the interest of fostering an open and welcoming environment, we as contributo
 
 #### Please follow this format:
 
-Title - Content
+`Title - Content`
 
 #### Example of the format:
 
-How am I billed for my servers? - All servers on your account are billed hourly. The hourly rate is determined by dividing the monthly rate by 720.
+`How am I billed for my servers? - All servers on your account are billed hourly. The hourly rate is determined by dividing the monthly rate by 720.`
 
 ### Our Standards
 
