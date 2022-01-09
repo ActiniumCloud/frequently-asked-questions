@@ -11,6 +11,14 @@ Make sure your PR follows our code of conduct.
 
 In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to make participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
+#### Please follow this format:
+
+Title - Content
+
+#### Example of the format:
+
+How am I billed for my servers? - All servers on your account are billed hourly. The hourly rate is determined by dividing the monthly rate by 720.
+
 ### Our Standards
 
 ##### Examples of behaviour that contributes to creating a positive environment include:
