@@ -8,7 +8,7 @@ What uptime do I get? - We offer 99.99% uptime on hardware, power, cooling and n
 ---
 What is my server's IP? - To find the IP, log into our control panel and you will see your IP address in the format of IP:PORT. You can allocate a maximum of 3 ports in the Network tab (although you can request more by opening a ticket).
 ---
-Do I need to port forward my server? - No. We do our best to make it easy to get started.
+Do I need to port forward my server? - No. Our servers are automatically port forwarded for you.
 ---
 How am I billed for my servers? - All servers on your account are billed hourly. The hourly rate is determined by dividing the monthly rate by 720.
 ---
