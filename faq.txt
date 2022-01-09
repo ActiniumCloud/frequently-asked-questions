@@ -2,15 +2,15 @@ What is application hosting? - Application hosting can host your custom apps on 
 ---
 When will my server be ready? - Our servers are instantly created. As soon as you choose a plan, your server will be ready to play.
 ---
-How to get a MySQL database? - We provide unlimited MySQL databases at zero cost.
+How many MySQL databases do I get? - We provide unlimited MySQL databases at no additional cost.
 ---
 What uptime do I get? - We offer 99.99% uptime on hardware, power, cooling and network.
 ---
-What is my server's IP? - To find the IP, log into our control panel and you will see your IP address in the format of IP:PORT. You can allocate unlimited ports in the Network tab.
+What is my server's IP? - To find the IP, log into our control panel and you will see your IP address in the format of IP:PORT. You can allocate a maximum of 3 ports in the Network tab (although you can request more by opening a ticket).
 ---
 Do I need to port forward my server? - No. We do our best to make it easy to get started.
 ---
 How am I billed for my servers? - All servers on your account are billed hourly. The hourly rate is determined by dividing the monthly rate by 720.
 ---
-Do you charge for stopped servers? - Yes. Stopped servers continue to use dedicated system resources and therefore incur charges until you delete the server.
+Do you charge for stopped servers? - Yes. Stopped servers continue to use allocated system resources and therefore incur charges until you delete the server.
 ---
