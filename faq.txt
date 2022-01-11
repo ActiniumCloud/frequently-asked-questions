@@ -14,3 +14,4 @@ How am I billed for my servers? - All servers on your account are billed hourly.
 ---
 Do you charge for stopped servers? - Yes. Stopped servers continue to use allocated system resources and therefore incur charges until you delete the server.
 ---
+What do I do if there is an issue? - You may contact free 24/7 support on our website which will connect you to an agent.
